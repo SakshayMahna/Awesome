@@ -14,3 +14,12 @@ class Topics(scrapy.Item):
     name = scrapy.Field()
     link = scrapy.Field()
     matter = scrapy.Field()
+
+# class Topics_DS(scrapy.Item):
+#     # define the fields for your item here like:
+#     heading = scrapy.Field()
+#     name = scrapy.Field()
+#     link = scrapy.Field()
+#     matter = scrapy.Field()
+
+	
